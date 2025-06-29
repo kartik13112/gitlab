@@ -1,2 +1,1 @@
-"This is first line update"
-
+"This is conflict resolved"
